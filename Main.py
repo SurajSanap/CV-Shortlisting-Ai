@@ -10,7 +10,8 @@ from streamlit_lottie import st_lottie
 
 
 # Load the environment variables from the .api file
-load_dotenv(dotenv_path='.api')
+os.getenv("GOOGLE_API_KEY")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Configure the GenAI API using the API key
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
