@@ -1,4 +1,4 @@
-Project Link: [Link]([https://streamlit.io/](https://github.com/SurajSanap/CV-Shortlisting-Ai))
+Project Link: [Link](https://github.com/SurajSanap/CV-Shortlisting-Ai)
 
 # CV-Shortlisting-Ai
 
