@@ -2,6 +2,10 @@
 
 This project is an CV-Shortlisting-Ai that analyzes multiple resumes against a provided job description. It evaluates the match percentage, identifies missing keywords, and provides a summary for each resume. The results can be downloaded as a PDF or an Excel file.
 
+![image](https://github.com/user-attachments/assets/6733d5f1-aa96-49da-992f-60108b53d9f9)
+
+![image](https://github.com/user-attachments/assets/d36e0282-1dee-4868-baa9-beafd5ed22a2)
+
 ## Features
 
 - Upload multiple PDF resumes.
