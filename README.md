@@ -91,7 +91,4 @@ This project is licensed under the MIT License.
 - [PyMuPDF](https://pymupdf.readthedocs.io/)
 - [Lottie Animations](https://lottiefiles.com/)
 
-## Author
-
-- **Your Name** - [Your GitHub Profile](https://github.com/your-username)
 
