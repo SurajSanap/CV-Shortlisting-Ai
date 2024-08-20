@@ -1,8 +1,7 @@
 streamlit
 google-generativeai
-PyPDF2
+pymupdf
 python-dotenv
-streamlit-lottie
-fpdf
-reportlab
+pandas
 openpyxl
+streamlit-lottie
